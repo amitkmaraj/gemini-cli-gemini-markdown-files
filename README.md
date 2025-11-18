@@ -1,4 +1,4 @@
-![Gemini Markdown Banner](img/gemini-markdown-banner.png)
+![Gemini Markdown Banner](gemini-markdown-banner.png)
 
 # Gemini 3 Context Repository
 
