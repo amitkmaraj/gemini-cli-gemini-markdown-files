@@ -1,3 +1,5 @@
+![Gemini Markdown Banner](img/gemini-markdown-banner.png)
+
 # Gemini 3 Context Repository
 
 This repository contains a collection of `GEMINI.md` context files designed to enhance your AI-assisted development workflows with the Gemini CLI. These files provide specialized instructions, best practices, and personas for different domains.
